@@ -1,0 +1,54 @@
+body {
+  background-color: #f5ebd3;
+  margin: 0px 200px 0px 200px;
+}
+
+p {
+  font-size: 17px;
+  color: #9e4708;
+  background-color: #edd9af;
+  border: solid #bdb386 5px;
+  padding: 7px;
+}
+
+h1 {
+  color: #693600;
+  border-bottom:#bdb386 solid 5px;
+}
+
+h2 {
+  color: #693600;
+}
+
+h3 {
+  color: #693600;
+}
+
+img {
+  border: solid #bdb386 5px;
+}
+
+.personal {
+  position: relative;
+  left: 220px;
+  bottom: 295px;
+}
+
+.liste {
+  position: relative;
+  left: 200px;
+  bottom: 290px;
+  color: #9e4708;
+}
+
+.myself {
+  position: relative;
+  left: 225px;
+  bottom: 275px;
+  margin-right: 223px;
+}
+
+main {
+  position: relative;
+  bottom: 225px;
+}
